@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto Cookmaster!
 
-Nesse projeto proposto pela trybe eu desenvolvi um app utilizando arquitetura MSC. O projeto consiste em rotas express para criação de usuário, login, cadastro de receitas, consultas além da possibilidade de modificar e deletar as informações de acordo com as permissões via token JWT. A conexão do banco de dados é via MongoDB
+Nesse projeto proposto pela trybe eu desenvolvi um app utilizando arquitetura MSC. O projeto consiste em rotas express para criação de usuário, login, cadastro de receitas, consultas, além da possibilidade de modificar e deletar as informações de acordo com as permissões via token JWT. A conexão do banco de dados é via MongoDB
 
 # Habilidades Desenvolvidas
 
